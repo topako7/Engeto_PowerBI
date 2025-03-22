@@ -1,6 +1,13 @@
 # Engeto_PowerBI
 Engeto kurz - Datový analýza s Pythonem - data_academy_2024_09_11
 
+
+Odevzdání: 
+- vzhledem k velikosti zdroje je nahran8 pouze šablona a zdrojová data jsou ke stažení na odkazu.
+- výstup jsem rozdělil do složek podle druhu souborů / jednou jako šablona .pbit a druhý jako projekt .pbip
+- zdrojová data jsou ke stažení zde: https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset/data
+
+
 Power BI projekt
 Zadání
 Tentokrát nebudeš odpovídat na otázky, ale je zcela na tvém výběru, které ukazatele jsou pro tebe nejzajímavější.
