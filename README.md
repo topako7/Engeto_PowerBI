@@ -4,8 +4,9 @@ Engeto kurz - Datový analýza s Pythonem - data_academy_2024_09_11
 
 Odevzdání: 
 - vzhledem k velikosti zdroje je nahran8 pouze šablona a zdrojová data jsou ke stažení na odkazu.
-- výstup jsem rozdělil do složek podle druhu souborů / jednou jako šablona .pbit a druhý jako projekt .pbip
+- výstup jsem nahrál jako .pbit a je potřeba si stáhnout data a napojit v semantic modelu z odkazu na další odrážce.
 - zdrojová data jsou ke stažení zde: https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset/data
+- případně je zde odkaz na pbix a pbip: https://www.uschovna.cz/zasilka/RXFM44LAAXM4ZG68-YEH/
 
 
 Power BI projekt
